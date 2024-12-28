@@ -511,10 +511,6 @@ The **Blue line** in ArUco marker in "Image Window" is indicating that magic wal
 
 Execute ```ros2 run mrs_hudson detect_marker```. Open new terminal and execute ```ros2 run mrs_hudson mrs_hudson_teleop``` to control bot.
 
-If you are curious about how these walls are created, don't worry. We will go deeper into these things in coming week.
-
-Now, go ahead and solve the maze. :)
-
 ### That's the end of Week 2! Cheers!
 
 <img src="W2_Images/sherlock_toast.jpg" height="300" width="450">
